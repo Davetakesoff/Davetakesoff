@@ -21,8 +21,8 @@ I author and manage two digital publications bridging the intersection of techno
 - Immersive French language studies (Targeting DELF B2).
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/david-iyoke-2365701b3)
-- **Resume:** [View my complete CV here](https://github.com/Davetakesoff/resume/blob/main/DAVID%20IYOKE.pdf)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/david-iyoke-2365701b3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Resume:** [View my complete CV here](https://github.com/Davetakesoff/resume/blob/main/%23%20DAVID%20IYOKE.pdf)
 -
 <!--
 **Davetakesoff/Davetakesoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
